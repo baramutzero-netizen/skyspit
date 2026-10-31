@@ -1,0 +1,6 @@
+tools/_*
+__pycache__/
+*.pyc
+dist/
+shorts/*.mp4
+shorts/*.webm
